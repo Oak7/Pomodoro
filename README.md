@@ -1,7 +1,5 @@
-# Santander Web Fullstack
+# Projeto do contador
 
-Códigos da Live Santander - Web fullstack, apresentada no dia 08/07/2021.
+Este projeto cria um contador de 5 minutos na tela.
 
-Link do youtube
 
-Web Fullstack: https://youtu.be/F0XcblUoCJw
