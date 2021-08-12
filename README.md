@@ -3,6 +3,7 @@
 Link do projeto https://oak7.github.io/Pomodoro/
 
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,15 +15,16 @@ Link do projeto https://oak7.github.io/Pomodoro/
 </head>
 <body>
     <article class="clock" id="clock">
-        <h3>Pomodoro </h3>
+        <h3>Pomodoro</h3>
         <div class="count">
             <div id="timer"></div>
         </div>
         <button id="botao">Iniciar</button>
+
+        <button id="botao2">Pausa</button>
     </article>
 </body>
 </html>
-
 
 
 
