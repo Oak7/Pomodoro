@@ -1,8 +1,7 @@
 # Projeto JavaScript - Pomodoro
 
-Este projeto simula um contador de Pomodoro.
-
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +19,7 @@ Este projeto simula um contador de Pomodoro.
         <button id="botao">Iniciar</button>
     </article>
 </body>
-
+</html>
 
 
 
