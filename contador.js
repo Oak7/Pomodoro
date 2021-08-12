@@ -5,7 +5,7 @@ window.addEventListener("load", () => {
     // window.addEventListener("load", () => {
     
     // Tempo, em segundos, que queremos.
-    let sec = 300;
+    let sec = 1500;
     
     const countDiv = document.getElementById("timer");
     
