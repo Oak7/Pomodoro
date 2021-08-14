@@ -2,6 +2,7 @@ window.addEventListener("load", () => {
     const botao = document.getElementById("botao");
     const botao2 = document.getElementById("botao2");
     
+    
     botao2.addEventListener("click",() => {
         let sec = 300;
         
